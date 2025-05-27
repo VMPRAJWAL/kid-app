@@ -1,0 +1,5 @@
+{
+  "name": "Kid's Learning Adventure",
+  "description": "An interactive learning game for kids featuring math puzzles and word games, powered by Gemini API for dynamic content generation.",
+  "requestFramePermissions": []
+}
